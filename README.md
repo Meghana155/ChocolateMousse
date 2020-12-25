@@ -1,4 +1,4 @@
-# ChocolateMousseCake
+# ChocolateMousse
 mix cocoa powder and hot water together
 melt chocolate chips in a microwave
 add cocoa powder mixture to melted chocolate and stir until smooth
